@@ -32,10 +32,6 @@
     "answer": "Los EcoPuntos son la moneda verde del Biofest:\n\n• Cómo ganar: transporte ecológico, reciclaje, uso de envases propios, menús veganos, participación y voluntariado.\n• Saldo: visible en la app o preguntando al chatbot; lectores QR en pulseras o entradas.\n• Canjeo:\n  – Merch sostenible: camisetas orgánicas, gorras y bolsas de tela.\n  – Productos locales: smoothies, tartas veganas o cestas de frutas.\n  – Experiencias: visitas exclusivas, apadrinar un árbol y entradas para la próxima edición.\n\nEjemplo: 50 EcoPuntos ≈ 50 kg CO₂ ahorrado."
   },
   {
-    "question": "BLOQUE CONCEPTUAL",
-    "answer": "nan"
-  },
-  {
     "question": "¿Qué es el Anaga Biofest?",
     "answer": "El Anaga Biofest es un festival de turismo regenerativo que se celebra en la Reserva de la Biosfera del Macizo de Anaga (Tenerife). A través de rutas, talleres y experiencias únicas, promueve una forma de viajar que genera una huella positiva en el entorno natural y sociocultural."
   },
@@ -82,26 +78,6 @@
   {
     "question": "¿Puedo participar aunque no sea residente en Canarias?",
     "answer": "Claro que sí. El festival está abierto tanto a residentes como a visitantes. Solo necesitas inscribirte a las actividades disponibles."
-  },
-  {
-    "question": "nan",
-    "answer": "nan"
-  },
-  {
-    "question": "nan",
-    "answer": "nan"
-  },
-  {
-    "question": "nan",
-    "answer": "nan"
-  },
-  {
-    "question": "nan",
-    "answer": "nan"
-  },
-  {
-    "question": "BLOQUE OPERATIVO",
-    "answer": "nan"
   },
   {
     "question": "¿Cómo puedo inscribirme?",
@@ -162,26 +138,6 @@
   {
     "question": "¿Habrá actividades para niños o en familia?",
     "answer": "Sí. El programa incluye talleres y rutas suaves pensadas para todas las edades. Eso sí, los menores deben ir siempre acompañados de un adulto responsable."
-  },
-  {
-    "question": "nan",
-    "answer": "nan"
-  },
-  {
-    "question": "nan",
-    "answer": "nan"
-  },
-  {
-    "question": "nan",
-    "answer": "nan"
-  },
-  {
-    "question": "nan",
-    "answer": "nan"
-  },
-  {
-    "question": "BLOQUE OPERATIVO",
-    "answer": "nan"
   },
   {
     "question": "¿Dónde puedo ver las actividades disponibles?",
@@ -266,22 +222,6 @@
   {
     "question": "No me llegó el bono de inscripción, ¿pueden reenviarlo?",
     "answer": "Sí. Escríbenos tu nombre completo, correo electrónico y la actividad en la que estás inscrito. Verificamos tu reserva y te lo reenviamos."
-  },
-  {
-    "question": "nan",
-    "answer": "nan"
-  },
-  {
-    "question": "nan",
-    "answer": "nan"
-  },
-  {
-    "question": "nan",
-    "answer": "nan"
-  },
-  {
-    "question": "BLOQUE AMBIENTAL",
-    "answer": "nan"
   },
   {
     "question": "¿Cómo se compensa la huella de carbono del festival?",
