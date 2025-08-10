@@ -1,0 +1,10 @@
+{
+    "Plane_short_haul_economy": 160,
+    "Plane_long_haul_economy": 195,
+    "Bus_city": 105,
+    "Car_petrol_avg_occupancy": 190,
+    "Bicycle": 16,
+    "Walking": 26,
+    "Ferry_foot_passenger": 19,
+    "Ferry_average_incl_cars": 110
+}
